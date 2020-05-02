@@ -14,7 +14,7 @@ The Space Game was a nifty assignment completed in the data structures course. T
 •	To provide a background in software development and project management.
 But in a different manner
 
-### 3. GoPro Marketing Project (adding soon)
+### 3. GoPro Marketing Project (https://github.com/Mikkelkw/MarketingResearch)
 During my Sophomore year, I was tasked with creating a marketing plan for a chosen company over a 5 years timeline. My group chose GoPro, a company making high-end action cameras. GoPro was the market leader for a few years. However, they quickly got overtaken by similar companies offering cameras with the same features but prices significantly lower. Struggling to innovate in a very niche area of multimedia, GoPro’s sales have been declining for years. 
 My group decided to completely switch the target buyers/users of these cameras. Instead of solely focusing on action, we decided to make the cameras part of the average Joe’s everyday life. The camera would be a user and family friendly vlog type of camera. We redesigned their ad removing all extreme sport and electro/house music to only show daily life shots with a popular pop song. 
 https://vimeo.com/246736158
